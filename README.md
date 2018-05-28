@@ -1,2 +1,2 @@
 # savaae.github.io
-hellow   everyone
+hello   everyone
